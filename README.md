@@ -22,6 +22,6 @@ I am Abhishek. I create things at [GeekyAnts](www.geekyants.com). Out of office 
 - 👯 I’m looking to collaborate on component-libraries, UI components and design.
 - 🤔 I’m looking for help with scaling design primitives ( having decided basic design primitives, formulating and extending them to set app themes and generate style variations )
 - 💬 Ask me about UI development. I have worked extensively with developing dashboards. Drop me a message, I'll be happy to help in my capacity.
-- 📫 How to reach me: https://geekyants.com/abhishek-pundir
+- 📫 How to reach me: mail me at abpndr1@gmail.com or we can connect on [twitter](https://twitter.com/abhi2minute)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: will be introducing CSS config generator soon 🎉
