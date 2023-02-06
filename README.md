@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Abhishek. I create things at [GeekyAnts](www.geekyants.com). Out of office either I strum my ukulele, binge-read an author, work on existing pending projects or mostly, day-dream about building stuffs. But as they say, ✨ _if you can dream it, you can do it_ ✨ ( liked this quote from random google motivation image ). I work with React and node environments.
+I am Abhishek. Out of office either I strum my ukulele, binge-read an author, work on existing pending projects or mostly, day-dream about building stuffs. But as they say, ✨ _if you can dream it, you can do it_ ✨ ( liked this quote from random google motivation image ). I work with React and node environments.
 
 - 🔭 I’m currently working on a CSS config generator
 - 🌱 I’m currently learning about UI design, DevOps and playing Ukulele 🎸
